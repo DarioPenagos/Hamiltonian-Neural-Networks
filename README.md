@@ -2,4 +2,6 @@ An exploration of Hamiltonian neural networks, (an idea introduced in https://ar
 
 I compared the HNN with a more traditional neural network (one that attempts to approximate the derivatives of the canonical coordinates), and found the HNN tends to be better at precisely simulating these systems over long time horizons.
 
+A more extensive treatment of the project and the results is available (in spanish) at `reporte.pdf`.
+
 Requirements: `torch`, `numpy`, `matplotlib`, `scipy`
